@@ -2,6 +2,17 @@ Requirements Specification
 
 Here is an outline of the requirements needed of interactions to the website. This document will set out how individuals will interact with the platform. See the README.md file for more of an overview of what the site mission and purpose is. 
 
-This document will catalog what the users interactions should be. 
+This document will catalog what the different user interactions should be. 
 
+Customers/Front End Users
 At a high level a user or customer, should be able to visit the site and understand 
+
+Moving Companies
+Can see leads
+can contact leads
+
+Individual Foremen
+Can see booked Jobs assigned to them
+
+
+
